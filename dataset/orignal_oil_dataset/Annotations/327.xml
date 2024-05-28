@@ -1,0 +1,26 @@
+<annotation>
+	<folder>电力设备漏油</folder>
+	<filename>327.jpg</filename>
+	<path>F:\机器视觉\电气数据集\电力巡检\电力设备漏油\327.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>534</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>oil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>215</ymin>
+			<xmax>211</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>
