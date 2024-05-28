@@ -1,0 +1,3 @@
+[submodule "PaddleYOLO"]
+	path = PaddleYOLO
+	url = https://github.com/PaddlePaddle/PaddleYOLO.git
