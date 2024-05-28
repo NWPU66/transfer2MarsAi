@@ -86,3 +86,15 @@ kernel_meta/
 # MAC
 *.DS_Store
 
+# 不上传图片
+*.jpg
+*.png
+*.jpeg
+*.gif
+*.bmp
+*.ico
+*.tiff
+*.svg
+*.webp
+*.psd
+*.raw
